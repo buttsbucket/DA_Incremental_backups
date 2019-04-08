@@ -1,6 +1,6 @@
 DATE=`date +%Y-%m-%d`
 BACKUP_USER = 'ADMIN_USER'
-CALLBACK = 'http://backups.wahost.org'
+CALLBACK = 'CALLBACK_URL'
 
 
 if [ $success = "1" ]; then
